@@ -1,0 +1,7 @@
+{
+    "livePreview.hostIP": "192.168.137.1",
+    "livePreview.httpHeaders": {
+        
+        "Accept-Ranges": "bytes"
+    }
+}
